@@ -2,24 +2,26 @@
 <rdf:RDF xmlns:dc="https://purl.org/dc/elements/1.1" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <rdf:Description rdf:about="https://id.wikipedia.org/wiki/Bika_ambon">
         <dc:title>Bika Ambon</dc:title>
-        <dc:ingridients>Bahan santan :
+        <dc:ingridients>
+            \n
+            Bahan santan :\n
                         -Ambil 1000 ml santan dari 2 butir kelapa
                         - 3 lembar daun pandan
                         - 10 lembar daun jeruk
                         - 1 batang serai
                         - 2 ruas kunyit dipotong-potong
-                        - 1/2 sdt garam
+                        - 1/2 sdt garam\n
                         Bahan Kue :
                         - 10 butir kuning telur
                         - 2 butir telur utuh
                         - 400 ml santan masak
                         - 300 gr tepung sagu
-                        - 300 gr gula pasir
+                        - 300 gr gula pasir\n
                         Bahan Biang :
                         - 1 sdm terigu
                         - 6 sdm air hangat
                         - 1 bungkus fermipan
-                        - 1 sdt gula pasir                        
+                        - 1 sdt gula pasir
         </dc:ingridients>
         <dc:tutorial>
             1. Masak semua bahan santan di atas api sedang sampai tinggal 400 ml. Angkat, dinginkan.
@@ -65,7 +67,7 @@
                             4.	Walaupun prosesnya sedikit lama, tapi kamu wajib coba membuat rendang menggunakan resep rendang daging yang satu ini. 
         </dc:tutorial>
         <dc:Image>https://cdn0-production-images-kly.akamaized.net/wIwQrQDvUCGS92etq3exM2SfNrQ=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1253731/original/213c98558a7233f0f923c91df2b986f9beef-curry-recipe-stew-beef-in-coconut-curry.jpg</dc:Image>
-        <dc:description>Rendang atau randang (Jawi: رندڠ) adalah masakan daging asli Indonesia yang berasal dari Minangkabau. Masakan ini dihasilkan dari proses memasak suhu rendah dalam waktu lama menggunakan aneka rempah-rempah dan santan. Proses memasaknya memakan waktu berjam-jam (biasanya sekitar empat jam) hingga yang tinggal hanyalah potongan daging berwarna hitam pekat dan dedak.</dc:description>
+        <dc:description>Rendang atau randang adalah masakan daging asli Indonesia yang berasal dari Minangkabau. Masakan ini dihasilkan dari proses memasak suhu rendah dalam waktu lama menggunakan aneka rempah-rempah dan santan. Proses memasaknya memakan waktu berjam-jam (biasanya sekitar empat jam) hingga yang tinggal hanyalah potongan daging berwarna hitam pekat dan dedak.</dc:description>
     </rdf:Description>
 
     <rdf:Description rdf:about="https://id.wikipedia.org/wiki/Pempek">
