@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:dc="https://purl.org/dc/elements/1.1" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <rdf:Description rdf:about="https://id.wikipedia.org/wiki/Bika_ambon">
+        <dc:title>Bika Ambon</dc:title>
+        <dc:ingridients>Bahan santan :
+                        -Ambil 1000 ml santan dari 2 butir kelapa
+                        - 3 lembar daun pandan
+                        - 10 lembar daun jeruk
+                        - 1 batang serai
+                        - 2 ruas kunyit dipotong-potong
+                        - 1/2 sdt garam
+                        Bahan Kue :
+                        - 10 butir kuning telur
+                        - 2 butir telur utuh
+                        - 400 ml santan masak
+                        - 300 gr tepung sagu
+                        - 300 gr gula pasir
+                        Bahan Biang :
+                        - 1 sdm terigu
+                        - 6 sdm air hangat
+                        - 1 bungkus fermipan
+                        - 1 sdt gula pasir                        
+        </dc:ingridients>
+        <dc:tutorial>
+            1. Masak semua bahan santan di atas api sedang sampai tinggal 400 ml. Angkat, dinginkan.
+            2. Campur jadi satu bahan biang. Diamkan selama 10 menit.
+            3. Kocok telur dan gula dengan mixer sampai gula larut.
+            4. Turunkan kecepatan mixer, masukkan santan dan tepung sagu bergantian sampai habis. Aduk rata.
+            5. Masukkan biang. Aduk rata kembali. Matikan mixer lalu saring adonan.
+            6. Pukul-pukul adonan dengan centong kayu minimal selama 15 menit.
+            7. Tutup wadah, diamkan adonan selama kurang lebih 3 jam.
+            8. Siapkan loyang 18x18cm. Oles margarin dan taburi tepung. Panaskan loyang bersamaan saat memanaskan oven.
+            9. Tuang adonan ke loyang panas. Panggang 180C selama 40 menit. Biarkan oven sedikit terbuka selama 30 menit pertama, kemudian tutup rapat oven, panggang sampai matang.
+            10. Angkat dan potong-potong setelah kue dingin. Sajikan.
+        </dc:tutorial>
+        <dc:Image>https://cdns.klimg.com/merdeka.com/i/w/news/2020/01/30/1144060/540x270/resep-bika-ambon-khas-medan-yang-bersarang-rev-1.jpg</dc:Image>
+        <dc:description>Bika ambon adalah penganan khas Medan, Indonesia. Terbuat dari bahan-bahan seperti tepung tapioka, telur, gula, dan santan. Kini Bika Ambon dijual bukan saja rasa asli tetapi sudah ada varian rasa pandan, durian, keju, dan cokelat. Bika ambon yang dimasak selama 12 jam, ini biasanya dapat bertahan dalam kondisi terbaik selama empat hari karena setelah itu kue tersebut mulai mengeras. Kue basah ini biasanya memiliki jaring-jaring pada bagian dalamnya.</dc:description>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://id.wikipedia.org/wiki/Rendang">
+        <dc:title>Rendang</dc:title>
+        <dc:ingridients>    -500 gr daging 
+                            -	1 batang serai geprek 
+                            -	3 lembar daun jeruk 
+                            -	2 lembar daun salam 
+                            -	1 ruas lengkuas geprek 
+                            -	2 cm kayu manis 
+                            -	1 sdt gula merah 
+                            -	1 sdt kaldu sapi dan garam 
+                            -	1/2 sdt jintan bubuk 
+                            -	1/2 sdt merica bubuk 
+                            -	Jeruk nipis 
+                            -	500 ml santan dari 1/2 kelapa 
+                            -	4 siung bawang putih 
+                            -	6 butir bawang merah 
+                            -	2 butir kemiri 
+                            -	1/2 sdt ketumbar 
+                            -	3 cabai merah besar (buang bijinya)
+                            -	2 cm kunyit 
+                            -	3 cm jahe 
+        </dc:ingridients>
+        <dc:tutorial>   1.	Cuci bersih daging, potong sesuai selera, beri perasan jeruk nipis, lalu cuci lagi. 
+                            2.	Haluskan bumbu, lalu tumis bumbu halus dengan serai, daun jeruk, daun salam, kayu manis dan lengkuas sampai matang. Masukkan daging, aduk rata, lalu masukkan santan. Masak dengan api kecil sambil sesekali diaduk. 
+                            3.	Kemudian masukkan garam, kaldu, jintan, merica dan gula merah, diamkan hingga bumbu meresap dan airnya menyusut. Koreksi rasa, angkat dan hidangkan.
+                            4.	Walaupun prosesnya sedikit lama, tapi kamu wajib coba membuat rendang menggunakan resep rendang daging yang satu ini. 
+        </dc:tutorial>
+        <dc:Image>https://cdn0-production-images-kly.akamaized.net/wIwQrQDvUCGS92etq3exM2SfNrQ=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1253731/original/213c98558a7233f0f923c91df2b986f9beef-curry-recipe-stew-beef-in-coconut-curry.jpg</dc:Image>
+        <dc:description>Rendang atau randang (Jawi: رندڠ) adalah masakan daging asli Indonesia yang berasal dari Minangkabau. Masakan ini dihasilkan dari proses memasak suhu rendah dalam waktu lama menggunakan aneka rempah-rempah dan santan. Proses memasaknya memakan waktu berjam-jam (biasanya sekitar empat jam) hingga yang tinggal hanyalah potongan daging berwarna hitam pekat dan dedak.</dc:description>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://id.wikipedia.org/wiki/Pempek">
+        <dc:title>Pempek</dc:title>
+        <dc:ingridients>    - 500 gram ikan tenggiri 
+                            - 300 gram air 
+                            - 5 gram gula pasir 
+                            - 25 gram garam 
+                            - 5 gram penyedap rasa 
+                            - 350 gram tepung sagu
+        </dc:ingridients>
+        <dc:tutorial>-	Campur rata ikan tenggiri halus dan air menggunakan tangan. Masukkan gula pasir, garam, dan penyedap rasa. Campur rata sampai adonan agak mengental. 
+                    -	Masukkan tepung sagu ke dalam adonan. Campur perlahan menggunakan tangan, jangan diaduk terlalu keras. 
+                    -	Bagi adonan menjadi masing-masing 150 gram untuk lenjer besar atau 25 gram untuk lenjer kecil. Bentuk seperti silinder. 
+                    -	Rebus pempek dengan api sedang sampai mengapung dan permukaannya licin. Angkat dan tiriskan. Sajikan pempek dengan cuko.
+        </dc:tutorial>
+        <dc:image>https://asset.kompas.com/crops/LPTbmb14tDCmSay2EAvNihccDv0=/0x47:909x653/750x500/data/photo/2020/11/20/5fb76c4aa04bc.jpg</dc:image>
+        <dc:description>Pempek dan tekwan merupakan makanan khas dari Daerah Palembang Sumatra Selatan, makanan ini begitu populer di Indonesia. Masakan yang terbuat dari sagu dan ikan ini memiliki rasa yang lezat dan gurih. Rasa lezat dalam sebuah hidangan empek – empek asli Palembang membuat setiap orang yang mencobanya menjadi ketagihan.
+        </dc:description>
+    </rdf:Description>
+</rdf:RDF>
