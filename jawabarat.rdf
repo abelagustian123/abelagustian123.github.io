@@ -2,21 +2,23 @@
 <rdf:RDF xmlns:dc="https://purl.org/dc/elements/1.1" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <rdf:Description rdf:about="https://id.wikipedia.org/wiki/Bika_ambon">
         <dc:title>Bika Ambon</dc:title>
-        <dc:ingridients>
-            \n
-            Bahan santan :\n
-                        -Ambil 1000 ml santan dari 2 butir kelapa
+        <dc:ingridients>Bahan Santan : </dc:ingridients>
+        <dc:ingridients>-Ambil 1000 ml santan dari 2 butir kelapa
                         - 3 lembar daun pandan
                         - 10 lembar daun jeruk
                         - 1 batang serai
                         - 2 ruas kunyit dipotong-potong
-                        - 1/2 sdt garam\n
-                        Bahan Kue :
-                        - 10 butir kuning telur
+                        - 1/2 sdt garam
+        </dc:ingridients>
+        <dc:ingridients>Bahan Kue : </dc:ingridients>
+        <dc:ingridients>- 10 butir kuning telur
                         - 2 butir telur utuh
                         - 400 ml santan masak
                         - 300 gr tepung sagu
-                        - 300 gr gula pasir\n
+                        - 300 gr gula pasir
+        </dc:ingridients>
+        <dc:ingridients>Bahan Biang : </dc:ingridients>
+        <dc:ingridients>
                         Bahan Biang :
                         - 1 sdm terigu
                         - 6 sdm air hangat
