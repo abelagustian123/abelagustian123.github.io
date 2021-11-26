@@ -15,4 +15,31 @@
             Bika ambon adalah penganan khas Medan, Indonesia. Terbuat dari bahan-bahan seperti tepung tapioka, telur, gula, dan santan. Kini Bika Ambon dijual bukan saja rasa asli tetapi sudah ada varian rasa pandan, durian, keju, dan cokelat. Bika ambon yang dimasak selama 12 jam, ini biasanya dapat bertahan dalam kondisi terbaik selama empat hari karena setelah itu kue tersebut mulai mengeras. Kue basah ini biasanya memiliki jaring-jaring pada bagian dalamnya.
         </dc:description>
 	</rdf:Description>
+	
+	<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Rendang">
+		<dc:title>Rendang</dc:title>
+		<dc:province>Sumatera Barat</dc:province>
+		<dc:city>Minangkabau</dc:city>
+		<dc:type>Makanan Berat</dc:type>
+		<dc:ingridients>
+            500 gr daging, 1 batang serai geprek, 3 lembar daun jeruk, 2 lembar daun salam, 1 ruas lengkuas geprek, 2 cm kayu manis, 1 sdt gula merah, 1 sdt kaldu sapi dan garam, 1/2 sdt jintan bubuk, 1/2 sdt merica bubuk, Jeruk nipis, 500 ml santan dari 1/2 kelapa, 4 siung bawang putih, 6 butir bawang merah, 2 butir kemiri, 1/2 sdt ketumbar, 3 cabai merah besar (buang bijinya), 2 cm kunyit, dan 3 cm jahe 
+        </dc:ingridients>
+		<dc:Image rdf:resource="https://images.tokopedia.net/img/cache/900/product-1/2020/5/7/805819851/805819851_ccdb215c-ba65-4c65-afb3-ccc4e20d4112_720_720.jpg"/>
+		<dc:Image>https://images.tokopedia.net/img/cache/900/product-1/2020/5/7/805819851/805819851_ccdb215c-ba65-4c65-afb3-ccc4e20d4112_720_720.jpg</dc:Image>
+		<dc:description>Rendang atau randang adalah masakan daging asli Indonesia yang berasal dari Minangkabau. Masakan ini dihasilkan dari proses memasak suhu rendah dalam waktu lama menggunakan aneka rempah-rempah dan santan. Proses memasaknya memakan waktu berjam-jam (biasanya sekitar empat jam) hingga yang tinggal hanyalah potongan daging berwarna hitam pekat dan dedak.</dc:description>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Pempek">
+		<dc:title>Pempek</dc:title>
+		<dc:province>Sumatera Selatan</dc:province>
+		<dc:city>Palembang</dc:city>
+		<dc:type>Makanan Ringan</dc:type>
+		<dc:ingridients>
+            500 gram ikan tenggiri, 300 gram air, 5 gram gula pasir, 25 gram garam, 5 gram penyedap rasa, dan 350 gram tepung sagu
+        </dc:ingridients>
+		<dc:Image rdf:resource="https://images.tokopedia.net/img/cache/900/VqbcmM/2021/6/5/b31a5772-9831-4333-b875-6a28ebdb141d.jpg"/>
+		<dc:Image>https://images.tokopedia.net/img/cache/900/VqbcmM/2021/6/5/b31a5772-9831-4333-b875-6a28ebdb141d.jpg</dc:Image>
+		<dc:description>Pempek dan tekwan merupakan makanan khas dari Daerah Palembang Sumatra Selatan, makanan ini begitu populer di Indonesia. Masakan yang terbuat dari sagu dan ikan ini memiliki rasa yang lezat dan gurih. Rasa lezat dalam sebuah hidangan empek – empek asli Palembang membuat setiap orang yang mencobanya menjadi ketagihan.
+        </dc:description>
+	</rdf:Description>
 </rdf:RDF>
