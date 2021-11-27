@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+
+  <rdf:Description rdf:about="http://purl.org/dc/elements/1.1/BatakAngkola">
+    <dc:penjelasan> Suku Batak Angkola adalah salah satu sub-etnis dari Suku Bangsa Batak, di samping Batak Toba, Batak Karo, 
+    Batak Pakpak, Batak Simalungun, dan Batak Mandailing.Tanah ulayat Suku Batak Angkola berada di wilayah geografis Tapanuli 
+    bagian selatan (tabagsel) yang meliputi Kabupaten Tapanuli Selatan, Kabupaten Padang Lawas, Kabupaten Padang Lawas Utara, Kota Padangsidimpuan, dan sebagian Kabupaten Mandailing Natal. Suku Batak Angkola memiliki hubungan yang sangat erat hubungan kekerabatan marga-marga (Tarombo) Batak Toba dan juga memiliki kekerabatan yang kuat dengan Batak Mandailing disebabkan adanya persamaan bahasa, budaya, dan agama yang dianut sebagian besar masyarakatnya.</dc:penjelasan>
+    <dc:Tarian>Tari Tatak Menapu Kopi/ Memupu,Tari Tatak Garo Garo,Tari Tatak Dembas Simanguda,Tari Tatak Muat Page/ Menabi Page,
+    Tari Tatak Renggisa,Tari Tatak Menerser Page (Tintoa Serser),Tari Tatak Nantampuk Emas,Tari Tatak Tirismo Lae Bangkuang</dc:Tarian>
+    <dc:AlatMusik>Gun sada Rabaan,Genderrang Sada Rabaan,Kalondang,Kucapi,Sordam</dc:AlatMusik>
+    <dc:LaguDaerah> Kekelengenku Tanoh Dairi,Mike Mo Aku Laus,Sada-sada , Berngin En</dc:LaguDaerah>
+    <dc:Bahasa>Bahasa Batak PakPak</dc:Bahasa>
+    <dc:Wilayah> Tanah ulayat Suku Batak Angkola berada di wilayah geografis Tapanuli bagian selatan (tabagsel) yang meliputi Kabupaten 
+    Tapanuli Selatan, Kabupaten Padang Lawas, Kabupaten Padang Lawas Utara, Kota Padangsidimpuan, dan sebagian Kabupaten Mandailin
+    g Natal.</dc:Wilayah> 
+  </rdf:Description>
+
+  <rdf:Description 
+    rdf:about="http://purl.org/dc/elements/1.1/BatakMandailing">
+    <dc:penjelasan> Suku Mandailing atau juga disebut Batak Mandailing merupakan nama suku bangsa yang mendiami sebagian Kabupaten T
+    apanuli Selatan dan Kabupaten Mandailing Natal, Sumatera Utara, yang juga dikategorikan sebagai bagian dari suku Batak, yang m
+    empunyai banyak dialek bahasa, walau masih berkerabat satu dengan yang lain. Pada masyarakat Adat Minangkabau, Mandailing juga menjadi nama bagi salah satu suku yang ada pada masyarakat tersebut.</dc:penjelasan>
+    <dc:Tarian>Tari Guro-Guro Aron (Terang Bulan),Tari Endeng-Endeng, Tari Samara Datu</dc:Tarian>
+    <dc:AlatMusik>Gordang Sambilan</dc:AlatMusik>
+    <dc:LaguDaerah>Ketabo,Benteng Huraba ,O Mandailing,Bujing-bujing Panyabungan,Tubu Ni Marga,Sampuraga,Marbue-bue,Sahata Saoloan
+    </dc:LaguDaerah>
+    <dc:Bahasa>Bahasa Batak Mandailing</dc:Bahasa>
+    <dc:Wilayah> Suku Mandailing lebih banyak tersebar di Kabupaten Mandailing Natal, Kabupaten Tapanuli Selatan, Kabupaten Padang Lawas, Kabupaten Padang Lawas Utara, Kabupaten Labuhanbatu, Kabupaten Labuhanbatu Utara, Kabupaten Labuhanbatu Selatan, Kabupaten Batubara, Kabupaten Deli Serdang, Kota Medan, Kabupaten Rokan Hulu, Kabupaten Rokan Hilir, Kabupaten Pasaman dan Kabupaten Pasaman Barat. Kelompok pertama yang datang di wilayah tersebut adalah Pulungan dan Nasution.</dc:Wilayah>
+  </rdf:Description>
+
+  <rdf:Description 
+    rdf:about="http://purl.org/dc/elements/1.1/BatakToba">
+    <dc:penjelasan> Orang Toba (juga disebut sebagai orang Batak Toba atau sering hanya "Batak") adalah orang Batak paling banyak di Sumatera Utara, Indonesia, dan sering dianggap sebagai 'Batak' klasik, kemungkinan besar akan mengidentifikasi diri sebagai
+    Batak. Suku Toba terdapat di Kabupaten Toba Samosir, Kabupaten Humbang Hasundutan, Kabupaten Samosir, Kabupaten Tapanuli Utara,
+    sebagian Kabupaten Dairi, Kabupaten Tapanuli Tengah, Sibolga dan sekitarnya.Orang Batak Toba berbicara dalam bahasa Batak Toba
+    dan berpusat di Danau Toba dan Pulau Samosir di dalam danau. Orang Batak Toba sering membangun dengan gaya arsitektur tradis
+    ional Batak yang umum di Samosir. Demonstrasi budaya, pertunjukan dan perayaan seperti Sigale Gale sering diadakan untuk wisatawan.Penelitian paleontologi yang dilakukan di wilayah Humbang di sisi barat Danau Toba menunjukkan bahwa aktivitas manusia telahada 6.500 tahun yang lalu, jauh lebih awal dari 800 tahun keberadaan Raja Batak; dan oleh karena itu nama "Raja Toba" dicipt
+    akan untuk para pemukim awal wilayah itu. Penemuan ini juga memunculkan teori kemungkinan bahwa Raja Toba bisa saja berasal 
+    dari India selatan, Indochina (Thailand, Burma, Vietnam, Kamboja dan Formosa), Cina Selatan dan sebagainya, bahkan sampai ke 
+    Sepuluh Suku yang Hilang. Israel.</dc:penjelasan>
+    <dc:Tarian>Tortor Sipitu Cawan, Tari Tortor Sawan Pangurason, Tari Tortor Sombah, Tari Tortor Tunggal Panaluan</dc:Tarian>
+    <dc:AlatMusik>Sarune Bolon, Pangora, Garantung, Taganing, Hapetan (Hasapi), Gondang (Single Drum), Ihutan, Odap</dc:AlatMusik>
+    <dc:LaguDaerah>Pulau Samosir,Boru Panggoaran,Sik Sik Sibatumanikam ,Sinanggar Tullo, Anakku Naburju, Tangiang Ni Dainang</dc:LaguDaerah>
+    <dc:Bahasa>Bahasa Batak Toba</dc:Bahasa>
+    <dc:Wilayah> Wilayah yang mayoritas orang Batak Toba, khusunya berada di provinsi Sumatra Utara meliputi Kabupaten Toba, Kabupaten Samosir, Kabupaten Humbang Hasundutan, Kabupaten Tapanuli Utara, dan Kabupaten Tapanuli Tengah.</dc:Wilayah> 
+  </rdf:Description>
+
+</rdf:RDF>
