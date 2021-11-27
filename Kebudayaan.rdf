@@ -7,7 +7,7 @@
 
 
   <rdf:Description rdf:about="http://purl.org/dc/elements/1.1/BatakAngkola">
-    <dc:Title>Batak Angkola</dc:Title>
+    <dc:title>Batak Angkola</dc:title>
     <dc:penjelasan> Suku Batak Angkola adalah salah satu sub-etnis dari Suku Bangsa Batak, di samping Batak Toba, Batak Karo, 
     Batak Pakpak, Batak Simalungun, dan Batak Mandailing.Tanah ulayat Suku Batak Angkola berada di wilayah geografis Tapanuli 
     bagian selatan (tabagsel) yang meliputi Kabupaten Tapanuli Selatan, Kabupaten Padang Lawas, Kabupaten Padang Lawas Utara, Kota Padangsidimpuan, dan sebagian Kabupaten Mandailing Natal. Suku Batak Angkola memiliki hubungan yang sangat erat hubungan kekerabatan marga-marga (Tarombo) Batak Toba dan juga memiliki kekerabatan yang kuat dengan Batak Mandailing disebabkan adanya persamaan bahasa, budaya, dan agama yang dianut sebagian besar masyarakatnya.</dc:penjelasan>
@@ -23,7 +23,7 @@
 
   <rdf:Description 
     rdf:about="http://purl.org/dc/elements/1.1/BatakMandailing">
-    <dc:Title>Batak Mandailing</dc:Title>
+    <dc:title>Batak Mandailing</dc:title>
     <dc:penjelasan> Suku Mandailing atau juga disebut Batak Mandailing merupakan nama suku bangsa yang mendiami sebagian Kabupaten T
     apanuli Selatan dan Kabupaten Mandailing Natal, Sumatera Utara, yang juga dikategorikan sebagai bagian dari suku Batak, yang m
     empunyai banyak dialek bahasa, walau masih berkerabat satu dengan yang lain. Pada masyarakat Adat Minangkabau, Mandailing juga menjadi nama bagi salah satu suku yang ada pada masyarakat tersebut.</dc:penjelasan>
@@ -37,7 +37,7 @@
 
   <rdf:Description 
     rdf:about="http://purl.org/dc/elements/1.1/BatakToba">
-    <dc:Title>Batak Toba</dc:Title>
+    <dc:title>Batak Toba</dc:title>
     <dc:penjelasan> Orang Toba (juga disebut sebagai orang Batak Toba atau sering hanya "Batak") adalah orang Batak paling banyak di Sumatera Utara, Indonesia, dan sering dianggap sebagai 'Batak' klasik, kemungkinan besar akan mengidentifikasi diri sebagai
     Batak. Suku Toba terdapat di Kabupaten Toba Samosir, Kabupaten Humbang Hasundutan, Kabupaten Samosir, Kabupaten Tapanuli Utara,
     sebagian Kabupaten Dairi, Kabupaten Tapanuli Tengah, Sibolga dan sekitarnya.Orang Batak Toba berbicara dalam bahasa Batak Toba
