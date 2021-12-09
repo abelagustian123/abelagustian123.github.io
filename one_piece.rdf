@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="https://purl.org/dc/elements/1.1">
+
+    <!-- Totto Land -->
+    <rdf:Description rdf:about="https://onepiece.fandom.com/id/wiki/Charlotte_Linlin#:~:text=Big%20Mom%20adalah%20wanita%20tua,ketinggian%20terbesar%20yang%20diketahui%20manusia.">
+        <dc:name>Big Mom aka Charlotte Linlin</dc:name>
+        <dc:pirates>Bajak Laut Big Mom</dc:pirates>
+        <dc:devil_fruit>Soru no Mi</dc:devil_fruit>
+        <dc:tipe>Paramecia</dc:tipe>
+        <dc:desc>Big Mom membentuk bajak laut Big Mom bersama dengan Strausen disaat dia masih memiliki umur sangat mudah yakni 6 tahun. Hal ini membuat Big Mom menjadi seorang kapten Termuda yang pernah memimpin kelompok bajak laut.</dc:desc>
+        <dc:gambar>https://images.bisnis-cdn.com/posts/2020/05/12/1239653/antarafoto-penerapan-psbb-di-bandung-raya-180420-3.jpghttps://i.pinimg.com/originals/f6/c3/69/f6c3690e14fc5e5221365bfdf457e01d.jpg</dc:gambar>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://onepiece.fandom.com/id/wiki/Charlotte_Katakuri">
+        <dc:name>Katakuri</dc:name>
+        <dc:pirates>Bajak Laut Big Mom</dc:pirates>
+        <dc:devil_fruit>Mochi Mochi no Mi</dc:devil_fruit>
+        <dc:tipe>Paramecia Tipe Spesial</dc:tipe>
+        <dc:desc>Charlotte Katakuri adalah putra kedua dan anak ketiga dari Keluarga Charlotte, dan kakak sulung dari Daifuku dan Oven. Dia adalah salah satu dari Tiga Komandan Manisan dari Bajak Laut Big Mom juga dikenal sebagai Menteri Tepung Pulau Totto, yang menguasai Pulau Komugi.</dc:desc>
+        <dc:gambar>https://pm1.narvii.com/6846/dc37b821d147cae7d7cd0777abde559795f15a7dv2_hq.jpg</dc:gambar>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://onepiece.fandom.com/wiki/Charlotte_Daifuku">
+        <dc:name>Charlotte Daifuku</dc:name>
+        <dc:pirates>Bajak Laut Big Mom</dc:pirates>
+        <dc:devil_fruit>Paramecia</dc:devil_fruit>
+        <dc:tipe>Hoya Hoya no Mi</dc:tipe>
+        <dc:desc>Charlotte Daifuku menjadi putra ketiga dari Big Mom. Ia menjadi salah satu putra terkuat Big Mom selain Katakuri, Oven, dan Perospero. Ada beberapa fakta dari Daifuku yang mungkin menarik untuk diketahui, seperti contohnya kemampuan buah iblis-nya.</dc:desc>
+        <dc:gambar>http://onepiece-treasurecruise.com/en/wp-content/uploads/c2243.png</dc:gambar>
+    </rdf:Description>
+
+    <!-- Zou -->
+    <rdf:Description rdf:about="https://onepiece.fandom.com/id/wiki/Inuarashi">
+        <dc:name>Inuarashi</dc:name>
+        <dc:pirates>Mantan Bajak Laut Shirohige</dc:pirates>
+        <dc:devil_fruit>Kame Kame no Mi</dc:devil_fruit>
+        <dc:tipe>Paramecia</dc:tipe>
+        <dc:desc>Bersama Nekomamushi, Inuarashi pernah menjadi anggota Bajak Laut Shirohige dan Bajak Laut Roger, melayani di bawah Kozuki Oden.Pedro mengklaim bahwa ia dan Nekomamushi tidak boleh dibiarkan mati karena dunia sedang menunggu mereka.</dc:desc>
+        <dc:gambar>https://pm1.narvii.com/6249/a6c0a792a340a69e6df4e3b2ce92edbb3d6e7fb5_hq.jpg</dc:gambar>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://onepiece.fandom.com/wiki/Nekomamushi">
+        <dc:name>Nekomamushi</dc:name>
+        <dc:pirates>Mantan Bajak Laut Shirohige</dc:pirates>
+        <dc:devil_fruit>Kame Kame no Mi</dc:devil_fruit>
+        <dc:tipe>Paramecia</dc:tipe>
+        <dc:desc>Master Nekomamushi adalah seekor kucing mink dan penjaga Hutan Paus di Zou, ia dijuluki Penguasa Malam Hari dan ia berkuasa atas Mokomo Dukedom dari pukul 6 sore hingga 6 pagi. Dia dan Inuarashi melayani sebagai pengikut untuk Keluarga Kozuki dari Negeri Wano.</dc:desc>
+        <dc:gambar>https://onepiece.fandom.com/id/wiki/Nekomamushi?file=Nekomamushi_Anime_Infobox.png</dc:gambar>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://onepiece.fandom.com/id/wiki/Pekoms#:~:text=Ia%20mengakui%20bahwa%20ia%20adalah,memblokir%20serangan%20Caribou%20dengan%20cangkangnya.">
+        <dc:name>Pekoms</dc:name>
+        <dc:pirates>Bajak Laut Big Mom</dc:pirates>
+        <dc:devil_fruit>Zoan</dc:devil_fruit>
+        <dc:tipe>Zoan Tipe Kura-Kura</dc:tipe>
+        <dc:desc>Pekoms adalah Anggota dari Bajak Laut Big Mom. Ia bermitra dengan Tamago, dan keduanya bertanggung jawab untuk menagih pembayaran permen bulanan dari Pulau Gyojin sebagai pertukaran atas perlindungan Big Mom.</dc:desc>
+        <dc:gambar>https://static.zerochan.net/Pekoms.full.2236035.jpg</dc:gambar>
+    </rdf:Description>
+
+
+    <!-- Sky Pie -->
+    <rdf:Description rdf:about="https://onepiece.fandom.com/id/wiki/Enel">
+        <dc:name>God Enel</dc:name>
+        <dc:pirates>Penguasa Sky Pie</dc:pirates>
+        <dc:devil_fruit>Goro Goro no Mi</dc:devil_fruit>
+        <dc:tipe>Logia</dc:tipe>
+        <dc:desc>Enel adalah mantan Dewa dari Skypiea dan antagonis utama dari Arc Skypiea,antagonis utama dari Pulau Sky Saga. Setelah kekalahannya oleh Bajak Laut Topi Jerami, ia menjadi karakter utama untuk Serial Halaman Operasi Besar Luar Angkasa Enel, dan setelah tiba di bulan, ia menjadi penguasa baru.</dc:desc>
+        <dc:gambar>https://static.wikia.nocookie.net/onepiece/images/7/71/One_Piece_Burning_Blood_Enel_%28Artwork%29.png/revision/latest?cb=20190208145524</dc:gambar>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://onepiece.fandom.com/id/wiki/Satori#:~:text=%22Satori%22%20(%E6%82%9F%E3%82%8A)adalah,yang%20bisa%20membaca%20pikiran%20orang.r">
+        <dc:name>Satori</dc:name>
+        <dc:pirates>Pengikut Enel</dc:pirates>
+        <dc:devil_fruit>Pengguna Mantra</dc:devil_fruit>
+        <dc:tipe>-</dc:tipe>
+        <dc:desc>Satori sang Hutan menghukum para penjahat dengan Ordeal of Balls selama masa pemerintahan Enel. Ia adalah salah satu petarung teratas Enel, para Pendeta Skypiea , sampai kekalahannya. Dia juga merupakan kakak dari Hotori dan Kotori.</dc:desc>
+        <dc:gambar>https://i.pinimg.com/originals/17/14/09/1714099e7e91eff3551f6af88e6a88ab.jpg</dc:gambar>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://onepiece.fandom.com/id/wiki/Satori#:~:text=%22Satori%22%20(%E6%82%9F%E3%82%8A)adalah,yang%20bisa%20membaca%20pikiran%20orang.">
+        <dc:name>Hotori</dc:name>
+        <dc:pirates>Pengikut Enel</dc:pirates>
+        <dc:devil_fruit>Pengguna Mantra</dc:devil_fruit>
+        <dc:tipe>-</dc:tipe>
+        <dc:desc>Hotori and Kotori are the younger brothers of Satori. They are lieutenants of the Divine Soldiers, an army of 50 warriors under the command of Yama, their leader, and Enel. They are minor antagonists during the Skypiea Arc.</dc:desc>
+        <dc:gambar>https://i.pinimg.com/originals/d6/09/9e/d6099e436d9037e2145cbbe954a0e1ef.png</dc:gambar>
+    </rdf:Description>
+
+    <!-- Fishman Island -->
+    <rdf:Description rdf:about="https://onepiece.fandom.com/id/wiki/Vander_Decken_IX">
+        <dc:name>Van Der Decken IX</dc:name>
+        <dc:pirates>Bajak Laut Flying</dc:pirates>
+        <dc:devil_fruit>Mato Mato No Mi</dc:devil_fruit>
+        <dc:tipe>Paramecia and Fishman</dc:tipe>
+        <dc:desc>Vander Decken IX adalah kapten dari Bajak Laut Flying dengan kapalnya yang terkenal, Flying Dutchman dan keturunan kedelapan legenda Vander Decken. Ia adalah Manusia Ikan spesies hiu bullhead, merupakan antagonis sekunder Cerita Pulau Gyojin setelah Hody Jones.</dc:desc>
+        <dc:gambar>https://ae01.alicdn.com/kf/HTB1C7GGKFXXXXaXXVXXq6xXFXXXo/Gratis-Pengiriman-One-Piece-Vander-Decken-Cosplay-Kostum-Custom-Made-untuk-Halloween-dan-Natal.jpg</dc:gambar>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://onepiece.fandom.com/id/wiki/Jinbe#:~:text=Jinbe%20(%20%E3%82%B8%E3%83%B3%E3%83%99%E3%82%A8%20Jinb%C4%93%3F%20),Luffy%20dan%20Bajak%20Laut%20Whitebeard.">
+        <dc:name>Jinbe</dc:name>
+        <dc:pirates>Mugiwara No Luffy</dc:pirates>
+        <dc:devil_fruit>-</dc:devil_fruit>
+        <dc:tipe>Fishman</dc:tipe>
+        <dc:desc>Jinbe adalah seorang mermen spesies hiu paus, mantan Shichibukai dan kapten kedua kelompok Bajak Laut Matahari setelah Fisher Tiger. Gelar Shichibukainya dicabut karena menolak ikut serta dalam perang melawan Shirohige, serta secara terang-terangan membantu Monkey D. Luffy dan Bajak Laut Whitebeard.</dc:desc>
+        <dc:gambar>https://i.pinimg.com/originals/49/bf/c5/49bfc5b65ff582a3c9b747362f2a0895.png</dc:gambar>
+    </rdf:Description>
+
+    <!-- Water 7 -->
+    <rdf:Description rdf:about="https://onepiece.fandom.com/id/wiki/Kalifa">
+        <dc:name>Kalifa</dc:name>
+        <dc:pirates>CP9</dc:pirates>
+        <dc:devil_fruit>Awa Awa no Mi</dc:devil_fruit>
+        <dc:tipe>Paramecia</dc:tipe>
+        <dc:desc>Kalifa adalah agen CP9 yang menyamar menjadi sekretaris Iceburg di Water 7. Dia merupakan satu-satunya anggota wanita dalam CP9.</dc:desc>
+        <dc:gambar>https://ami.animecharactersdatabase.com/uploads/chars/70874-1711603168.jpg</dc:gambar>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://onepiece.fandom.com/id/wiki/Franky">
+        <dc:name>Cutty Flam</dc:name>
+        <dc:pirates>Mugiwara No Luffy</dc:pirates>
+        <dc:devil_fruit>-</dc:devil_fruit>
+        <dc:tipe>Cyborg</dc:tipe>
+        <dc:desc>Cyborg Franky adalah anggota kru Bajak Laut Topi Jerami yang bertugas sebagai mekanik kapal Thousand Sunny. Pertama kali muncul sebagai pemimpin Keluarga Franky, sebuah genk bawah tanah yang menguasai jalanan Water 7. Ia bernama asli Cutty Flam namun kemudian diganti karena permintaan Iceburg.</dc:desc>
+        <dc:gambar>https://wallpaperaccess.com/full/1577049.jpg</dc:gambar>
+    </rdf:Description>
+
+    <!-- East Blue -->
+    <rdf:Description rdf:about="https://onepiece.fandom.com/id/wiki/Monkey_D._Luffy">
+        <dc:name>Monkey D. Luffy</dc:name>
+        <dc:pirates>Mugiwara No Luffy</dc:pirates>
+        <dc:devil_fruit>Gomu-Gomu</dc:devil_fruit>
+        <dc:tipe>Paramecia</dc:tipe>
+        <dc:desc>Monkey D. Luffy, juga dikenal sebagai Topi Jerami Luffy dan umumnya sebagai Topi Jerami, adalah protagonis utama dari manga dan anime, One Piece. Dia adalah pendiri dan kapten Bajak Laut Topi Jerami yang semakin terkenal dan kuat, serta salah satu dari empat petarung top. Impian seumur hidupnya adalah menjadi Raja Bajak Laut dengan menemukan harta karun legendaris yang ditinggalkan oleh Raja Bajak Laut yang terlambat, Gol D. Roger.</dc:desc>
+        <dc:gambar>https://assets-a1.kompasiana.com/items/album/2020/05/30/arti-topi-jerami-5ed205fcd541df5bbe47bfc2.jpg</dc:gambar>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://onepiece.fandom.com/id/wiki/Usopp">
+        <dc:name>God Usopp</dc:name>
+        <dc:pirates>Mugiwara No Luffy</dc:pirates>
+        <dc:devil_fruit>-</dc:devil_fruit>
+        <dc:tipe>Shooter, luck 100%</dc:tipe>
+        <dc:desc>God Usopp adalah penembak jitu dari Bajak Laut Topi Jerami dan mantan Kapten dari Bajak Laut Usopp. Ia dilahirkan di Desa Syrup dan pertama kali disebutkan oleh Yasopp, ayahnya. Meskipun pengecut yang normal, Usopp bermimpi menjadi seorang pejuang pemberani laut seperti ayahnya dan hidup setiap hari dalam mengejar hidup sampai mimpi ini.</dc:desc>
+        <dc:gambar>https://cdn.idntimes.com/content-images/duniaku/post/20201205/god-usopp-one-piece-treasure-cruise-6f1775674e7facae23597144ea68d489.jpg</dc:gambar>
+    </rdf:Description>
+</rdf:RDF>
