@@ -3,7 +3,7 @@
 
     <!-- Totto Land -->
     <rdf:Description rdf:about="https://onepiece.fandom.com/id/wiki/Charlotte_Linlin#:~:text=Big%20Mom%20adalah%20wanita%20tua,ketinggian%20terbesar%20yang%20diketahui%20manusia.">
-        <dc:name>Big Mom aka Charlotte Linlin</dc:name>
+        <dc:title>Big Mom aka Charlotte Linlin</dc:title>
         <dc:pirates>Bajak Laut Big Mom</dc:pirates>
         <dc:devil_fruit>Soru no Mi</dc:devil_fruit>
         <dc:tipe>Paramecia</dc:tipe>
@@ -13,7 +13,7 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="https://onepiece.fandom.com/id/wiki/Charlotte_Katakuri">
-        <dc:name>Katakuri</dc:name>
+        <dc:title>Katakuri</dc:title>
         <dc:pirates>Bajak Laut Big Mom</dc:pirates>
         <dc:devil_fruit>Mochi Mochi no Mi</dc:devil_fruit>
         <dc:tipe>Paramecia Tipe Spesial</dc:tipe>
@@ -23,7 +23,7 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="https://onepiece.fandom.com/wiki/Charlotte_Daifuku">
-        <dc:name>Charlotte Daifuku</dc:name>
+        <dc:title>Charlotte Daifuku</dc:title>
         <dc:pirates>Bajak Laut Big Mom</dc:pirates>
         <dc:devil_fruit>Paramecia</dc:devil_fruit>
         <dc:tipe>Hoya Hoya no Mi</dc:tipe>
@@ -34,7 +34,7 @@
 
     <!-- Zou -->
     <rdf:Description rdf:about="https://onepiece.fandom.com/id/wiki/Inuarashi">
-        <dc:name>Inuarashi</dc:name>
+        <dc:title>Inuarashi</dc:title>
         <dc:pirates>Mantan Bajak Laut Shirohige</dc:pirates>
         <dc:devil_fruit>Kame Kame no Mi</dc:devil_fruit>
         <dc:tipe>Paramecia</dc:tipe>
@@ -44,7 +44,7 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="https://onepiece.fandom.com/wiki/Nekomamushi">
-        <dc:name>Nekomamushi</dc:name>
+        <dc:title>Nekomamushi</dc:title>
         <dc:pirates>Mantan Bajak Laut Shirohige</dc:pirates>
         <dc:devil_fruit>Kame Kame no Mi</dc:devil_fruit>
         <dc:tipe>Paramecia</dc:tipe>
@@ -54,7 +54,7 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="https://onepiece.fandom.com/id/wiki/Pekoms#:~:text=Ia%20mengakui%20bahwa%20ia%20adalah,memblokir%20serangan%20Caribou%20dengan%20cangkangnya.">
-        <dc:name>Pekoms</dc:name>
+        <dc:title>Pekoms</dc:title>
         <dc:pirates>Bajak Laut Big Mom</dc:pirates>
         <dc:devil_fruit>Zoan</dc:devil_fruit>
         <dc:tipe>Zoan Tipe Kura-Kura</dc:tipe>
@@ -66,7 +66,7 @@
 
     <!-- Sky Pie -->
     <rdf:Description rdf:about="https://onepiece.fandom.com/id/wiki/Enel">
-        <dc:name>God Enel</dc:name>
+        <dc:title>God Enel</dc:title>
         <dc:pirates>Penguasa Sky Pie</dc:pirates>
         <dc:devil_fruit>Goro Goro no Mi</dc:devil_fruit>
         <dc:tipe>Logia</dc:tipe>
@@ -76,7 +76,7 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="https://onepiece.fandom.com/id/wiki/Satori#:~:text=%22Satori%22%20(%E6%82%9F%E3%82%8A)adalah,yang%20bisa%20membaca%20pikiran%20orang.r">
-        <dc:name>Satori</dc:name>
+        <dc:title>Satori</dc:title>
         <dc:pirates>Pengikut Enel</dc:pirates>
         <dc:devil_fruit>Pengguna Mantra</dc:devil_fruit>
         <dc:tipe>-</dc:tipe>
@@ -86,7 +86,7 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="https://onepiece.fandom.com/id/wiki/Satori#:~:text=%22Satori%22%20(%E6%82%9F%E3%82%8A)adalah,yang%20bisa%20membaca%20pikiran%20orang.">
-        <dc:name>Hotori</dc:name>
+        <dc:title>Hotori</dc:title>
         <dc:pirates>Pengikut Enel</dc:pirates>
         <dc:devil_fruit>Pengguna Mantra</dc:devil_fruit>
         <dc:tipe>-</dc:tipe>
@@ -97,7 +97,7 @@
 
     <!-- Fishman Island -->
     <rdf:Description rdf:about="https://onepiece.fandom.com/id/wiki/Vander_Decken_IX">
-        <dc:name>Van Der Decken IX</dc:name>
+        <dc:title>Van Der Decken IX</dc:title>
         <dc:pirates>Bajak Laut Flying</dc:pirates>
         <dc:devil_fruit>Mato Mato No Mi</dc:devil_fruit>
         <dc:tipe>Paramecia and Fishman</dc:tipe>
@@ -107,7 +107,7 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="https://onepiece.fandom.com/id/wiki/Jinbe#:~:text=Jinbe%20(%20%E3%82%B8%E3%83%B3%E3%83%99%E3%82%A8%20Jinb%C4%93%3F%20),Luffy%20dan%20Bajak%20Laut%20Whitebeard.">
-        <dc:name>Jinbe</dc:name>
+        <dc:title>Jinbe</dc:title>
         <dc:pirates>Mugiwara No Luffy</dc:pirates>
         <dc:devil_fruit>-</dc:devil_fruit>
         <dc:tipe>Fishman</dc:tipe>
@@ -118,7 +118,7 @@
 
     <!-- Water 7 -->
     <rdf:Description rdf:about="https://onepiece.fandom.com/id/wiki/Kalifa">
-        <dc:name>Kalifa</dc:name>
+        <dc:title>Kalifa</dc:title>
         <dc:pirates>CP9</dc:pirates>
         <dc:devil_fruit>Awa Awa no Mi</dc:devil_fruit>
         <dc:tipe>Paramecia</dc:tipe>
@@ -128,7 +128,7 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="https://onepiece.fandom.com/id/wiki/Franky">
-        <dc:name>Cutty Flam</dc:name>
+        <dc:title>Cutty Flam</dc:title>
         <dc:pirates>Mugiwara No Luffy</dc:pirates>
         <dc:devil_fruit>-</dc:devil_fruit>
         <dc:tipe>Cyborg</dc:tipe>
@@ -139,7 +139,7 @@
 
     <!-- East Blue -->
     <rdf:Description rdf:about="https://onepiece.fandom.com/id/wiki/Monkey_D._Luffy">
-        <dc:name>Monkey D. Luffy</dc:name>
+        <dc:title>Monkey D. Luffy</dc:title>
         <dc:pirates>Mugiwara No Luffy</dc:pirates>
         <dc:devil_fruit>Gomu-Gomu</dc:devil_fruit>
         <dc:tipe>Paramecia</dc:tipe>
@@ -149,7 +149,7 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="https://onepiece.fandom.com/id/wiki/Usopp">
-        <dc:name>God Usopp</dc:name>
+        <dc:title>God Usopp</dc:title>
         <dc:pirates>Mugiwara No Luffy</dc:pirates>
         <dc:devil_fruit>-</dc:devil_fruit>
         <dc:tipe>Shooter, luck 100%</dc:tipe>
