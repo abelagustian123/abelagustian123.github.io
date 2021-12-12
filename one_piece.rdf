@@ -22,14 +22,14 @@
         <dc:gambar>https://pm1.narvii.com/6846/dc37b821d147cae7d7cd0777abde559795f15a7dv2_hq.jpg</dc:gambar>
     </rdf:Description>
 
-    <rdf:Description rdf:about="https://onepiece.fandom.com/wiki/Charlotte_Daifuku">
-        <dc:title>Charlotte Daifuku</dc:title>
+    <rdf:Description rdf:about="https://onepiece.fandom.com/id/wiki/Charlotte_Oven">
+        <dc:title>Charlotte Oven</dc:title>
         <dc:pirates>Bajak Laut Big Mom</dc:pirates>
-        <dc:devil_fruit>Paramecia</dc:devil_fruit>
-        <dc:tipe>Hoya Hoya no Mi</dc:tipe>
+        <dc:devil_fruit>Netsu Netsu no Mi</dc:devil_fruit>
+        <dc:tipe>Paramecia</dc:tipe>
         <dc:province>Totto Land</dc:province>
-        <dc:desc>Charlotte Daifuku menjadi putra ketiga dari Big Mom. Ia menjadi salah satu putra terkuat Big Mom selain Katakuri, Oven, dan Perospero. Ada beberapa fakta dari Daifuku yang mungkin menarik untuk diketahui, seperti contohnya kemampuan buah iblis-nya.</dc:desc>
-        <dc:gambar>https://www.deviantart.com/hobbj/art/Charlotte-Daifuku-851761998.jpg</dc:gambar>
+        <dc:desc>Charlotte Oven adalah putra keempat dalam Keluarga Charlotte, anggota Bajak Laut Big Mom, dan Menteri Makanan Coklat di Totto Land. Oven setia kepada keluarganya dan berkomitmen untuk mengehntikan musuh-musuhnya. Meskipun ia mengetahui kondisi buruk orang lain, ia tetap tidak menunjukkan rasa takut dan berniat membakarnya.</dc:desc>
+        <dc:gambar>https://i.pinimg.com/originals/86/6b/57/866b574394447b14948b7e84171a44c0.jpg</dc:gambar>
     </rdf:Description>
 
     <!-- Zou -->
@@ -85,14 +85,14 @@
         <dc:gambar>https://i.pinimg.com/originals/17/14/09/1714099e7e91eff3551f6af88e6a88ab.jpg</dc:gambar>
     </rdf:Description>
 
-    <rdf:Description rdf:about="https://onepiece.fandom.com/id/wiki/Satori#:~:text=%22Satori%22%20(%E6%82%9F%E3%82%8A)adalah,yang%20bisa%20membaca%20pikiran%20orang.">
-        <dc:title>Hotori</dc:title>
-        <dc:pirates>Pengikut Enel</dc:pirates>
-        <dc:devil_fruit>Pengguna Mantra</dc:devil_fruit>
-        <dc:tipe>-</dc:tipe>
+    <rdf:Description rdf:about="https://onepiece.fandom.com/wiki/Wyper">
+        <dc:title>Wiper</dc:title>
+        <dc:pirates>Pemimpin Pemberontak Kota Shandora</dc:pirates>
+        <dc:devil_fruit></dc:devil_fruit>
+        <dc:tipe>Strategy</dc:tipe>
         <dc:province>Skypiea</dc:province>
-        <dc:desc>Hotori and Kotori are the younger brothers of Satori. They are lieutenants of the Divine Soldiers, an army of 50 warriors under the command of Yama, their leader, and Enel. They are minor antagonists during the Skypiea Arc.</dc:desc>
-        <dc:gambar>https://i.pinimg.com/originals/d6/09/9e/d6099e436d9037e2145cbbe954a0e1ef.png</dc:gambar>
+        <dc:desc>WIPER adalah pemimpin perlawanan dari kota shandora. Ia mempunyai keinginan dan ambisi yg sangat kuat untuk merebut upperyard dari cengkraman para dewa (ENEL). Sampai sampai salah satu penduduk desa shandia  yakni LAKI menjulukinya sebagai SETAN PERANG. Dan di dalam tubuhnya mengalir darah dari keturunan pahlawan besar CALGARA. Julukan atau sebutan dari orang ini adalah WIPER si SETAN PERANG.</dc:desc>
+        <dc:gambar>https://static.zerochan.net/Wiper.%28ONE.PIECE%29.full.3136229.pngssssssssssssssssssssssssssssssssssssssssssssssss</dc:gambar>
     </rdf:Description>
 
     <!-- Fishman Island -->
@@ -155,6 +155,6 @@
         <dc:tipe>Shooter, luck 100%</dc:tipe>
         <dc:province>East Blue</dc:province>
         <dc:desc>God Usopp adalah penembak jitu dari Bajak Laut Topi Jerami dan mantan Kapten dari Bajak Laut Usopp. Ia dilahirkan di Desa Syrup dan pertama kali disebutkan oleh Yasopp, ayahnya. Meskipun pengecut yang normal, Usopp bermimpi menjadi seorang pejuang pemberani laut seperti ayahnya dan hidup setiap hari dalam mengejar hidup sampai mimpi ini.</dc:desc>
-        <dc:gambar>https://cdn.idntimes.com/content-images/duniaku/post/20201205/god-usopp-one-piece-treasure-cruise-6f1775674e7facae23597144ea68d489.jpg</dc:gambar>
+        <dc:gambar>https://wallpaperaccess.com/full/4746555.jpg</dc:gambar>
     </rdf:Description>
 </rdf:RDF>
